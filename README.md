@@ -16,7 +16,7 @@ My name is Bruno Andrade, i'am a Developer Mobile and Web at GO.K, i'am passiona
 
 - 🔭 I’m currently working on [GO.K](https://gok.digital/) as a Mobile and Web Developer, a company in São Paulo, Brazil.
 - 💻 Working with JavaScript, TypeScript, NodeJS, React, React Native, ReactJs, PHP, Redux, GraphQL and ASP.NET.
-- 🌱 I’m currently learning NestJS.
+- 🥷 I’m currently working personal project [Bolio UI](https://bolio-ui.com.br/) - Make your development more creative and dynamic with amazing tools for React.
 - 💬 Ask me about Mobile Development, Web and Backend.
 
 <!-- ⚙️ I also maintain and assist with some open source projects:
