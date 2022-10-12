@@ -11,7 +11,7 @@
 
 ## Hi there 👋
 
-My name is Bruno Andrade, i'am a Developer Mobile and Web, i'am passionate about technology and currently work with JavaScript, TypeScript, React, React Native, Node.Js, GraphQL among many other technologies.
+My name is Bruno Andrade, i'am a Developer Mobile and Web. Passionate about technology and currently work with JavaScript, TypeScript, React, React Native, Node.Js, GraphQL among many other technologies.
 
 
 - 🔭 I’m currently working on [GO.K](https://gok.digital/) as a Mobile and Web Developer, a company in São Paulo, Brazil.
