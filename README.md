@@ -6,7 +6,7 @@ I have **10+ years of experience** in software development — including **5+ ye
 
 I've helped startups and enterprises build robust, scalable applications and meaningful digital experiences.
 
-### 🚀 What I do
+#### 🚀 What I do
 
 ---
 
@@ -18,32 +18,26 @@ I've also been developing my personal project [Bolio UI](https://bolio-ui.com/),
 
 ---
 
-### 🛠️ Technologies I work with
+#### 🛠️ Technologies I work with
 
 - **Mobile:** React Native (Android and iOS)
 - **Web:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Shadcn UI
 - **Backend:** Node.js, GraphQL, PHP, ASP.NET
-- **State Management:** Redux, Context API
+- **State Management:** Redux, Context API, Zustand, React Query
 - **Design & UI:** Design Systems, Accessibility, Server-Driven UI
 - **Tools & Others:** Style Dictionary, Figma, Storybook
 
 ---
 
-### 🌍 Connect with me
+#### 🌍 Connect with me
 
 Let's stay connected! You can find and follow my work here:
 
+[![Website Badge](https://img.shields.io/badge/-Website-c25fff?style=flat&logo=Google-Chrome&logoColor=white)](https://brunnoandrade.com.br/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brunnoandrade/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/brunnoandrade/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/brunnoandrade/)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-43E660?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/brunnoandrade/)
-
----
-
-### 📂 Some of my work
-
-- ⭐️ [GitHub Personal](https://github.com/brunnoandrade/)
-- 🌐 [Personal Website](https://brunnoandrade.com.br/)
 
 ---
 
