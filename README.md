@@ -6,19 +6,17 @@ I have **10+ years of experience** in software development — including **5+ ye
 
 I've helped startups and enterprises build robust, scalable applications and meaningful digital experiences.
 
-#### 🚀 What I do
+### 🚀 What I do
 
 ---
 
 I build robust and scalable web, mobile, and backend applications, always aiming for high performance, accessibility, and excellent user experience. Throughout my career, I've contributed to projects in both startup and enterprise environments, delivering clean code, maintainable architectures, and pixel-perfect interfaces.
 
-I'm currently working at [GO.K](https://gok.digital/) as a Mobile and Web Developer, helping to build creative and powerful digital products.
+<!-- I'm currently working at [GO.K](https://gok.digital/) as a Mobile and Web Developer, helping to build creative and powerful digital products. -->
 
 I've also been developing my personal project [Bolio UI](https://bolio-ui.com/), a toolkit designed to make React development more creative and dynamic.
 
----
-
-#### 🛠️ Technologies I work with
+**Technologies I work with:**
 
 - **Mobile:** React Native (Android and iOS)
 - **Web:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Shadcn UI
@@ -29,7 +27,7 @@ I've also been developing my personal project [Bolio UI](https://bolio-ui.com/),
 
 ---
 
-#### 🌍 Connect with me
+### 🌍 Connect with me
 
 Let's stay connected! You can find and follow my work here:
 
@@ -39,12 +37,14 @@ Let's stay connected! You can find and follow my work here:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/brunnoandrade/)
 [![Linktree Badge](https://img.shields.io/badge/-Linktree-43E660?style=flat&logo=Linktree&logoColor=white)](https://linktr.ee/brunnoandrade/)
 
----
+<!-- ---
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnoandrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoandrade&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
+
+--- -->
 
 ---
 
