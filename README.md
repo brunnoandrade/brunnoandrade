@@ -6,9 +6,9 @@ I have **10+ years of experience** in software development — including **5+ ye
 
 I've helped startups and enterprises build robust, scalable applications and meaningful digital experiences.
 
-### 🚀 What I do
-
 ---
+
+### 🚀 What I do
 
 I build robust and scalable web, mobile, and backend applications, always aiming for high performance, accessibility, and excellent user experience. Throughout my career, I've contributed to projects in both startup and enterprise environments, delivering clean code, maintainable architectures, and pixel-perfect interfaces.
 
