@@ -10,11 +10,11 @@ I've helped startups and enterprises build robust, scalable applications and cre
 
 ### 🚀 What I do
 
-I build robust and scalable web, mobile, and backend applications, always aiming for high performance, accessibility, and excellent user experience. Throughout my career, I've contributed to projects in both startup and enterprise environments, delivering clean code, maintainable architectures, and pixel-perfect interfaces.
+I build robust web, mobile, and backend applications with a focus on performance, accessibility, and user experience. I've contributed to both startups and enterprises, delivering clean code, scalable architectures, and polished interfaces. 
+
+I'm also the creator of [Bolio UI](https://bolio-ui.com/), a toolkit for creative and dynamic React development.
 
 <!-- I'm currently working at [GO.K](https://gok.digital/) as a Mobile and Web Developer, helping to build creative and powerful digital products. -->
-
-I've also been developing my personal project [Bolio UI](https://bolio-ui.com/), a toolkit designed to make React development more creative and dynamic.
 
 **Technologies I work with:**
 
@@ -22,8 +22,7 @@ I've also been developing my personal project [Bolio UI](https://bolio-ui.com/),
 - **Web:** React, Next.js, JavaScript, TypeScript, Tailwind CSS, Shadcn UI
 - **Backend:** Node.js, GraphQL, PHP, ASP.NET
 - **State Management:** Redux, Context API, Zustand, React Query
-- **Design & UI:** Design Systems, Accessibility, Server-Driven UI
-- **Tools & Others:** Style Dictionary, Figma, Storybook
+- **Design & UI:** Design Systems, Accessibility, Server-Driven UI, Style Dictionary, Figma, Storybook
 
 ---
 
