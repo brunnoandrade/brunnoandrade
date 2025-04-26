@@ -2,7 +2,7 @@
 
 My name is **Bruno Andrade**. I'm a **Senior Software Engineer** based in Brazil 🇧🇷, passionate about technology and innovation. 
 
-I have **10+ years of experience** in software development — including **5+ years working remotely** with international teams, delivering high-quality web, mobile, and backend solutions using JavaScript, TypeScript, React, React Native, Node.js, and other modern technologies.  
+I have **10+ years of experience** in software development — including **5+ years working remotely** with teams, delivering high-quality web, mobile, and backend solutions using JavaScript, TypeScript, React, React Native, Node.js, and other modern technologies.  
 
 I've helped startups and enterprises build robust, scalable applications and meaningful digital experiences.
 
