@@ -12,7 +12,7 @@ I've helped startups and enterprises build robust, scalable applications and cre
 
 I build robust web, mobile, and backend applications with a focus on performance, accessibility, and user experience. I've contributed to both startups and enterprises, delivering clean code, scalable architectures, and polished interfaces. 
 
-I'm also the creator of [Bolio UI](https://bolio-ui.com/), a toolkit for creative and dynamic React development.
+I'm also the creator of [Bolio UI](https://bolio-ui.com/), [Bolicover](https://bolicover.com/) and [Dizclover](https://dizclover.com/), a toolkit for creative and dynamic React development.
 
 <!-- I'm currently working at [GO.K](https://gok.digital/) as a Mobile and Web Developer, helping to build creative and powerful digital products. -->
 
